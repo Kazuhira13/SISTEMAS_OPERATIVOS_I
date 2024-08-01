@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\CodigoVersiones\\Version1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D72A018-34D3-4FB0-8F8B-4AFA699FAB1A}|Version1\\Version1.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\codigoversiones\\version1\\version1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D72A018-34D3-4FB0-8F8B-4AFA699FAB1A}|Version1\\Version1.csproj|solutionrelative:version1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\CodigoVersiones\\Version1\\Version1\\Program.cs",
+              "RelativeDocumentMoniker": "Version1\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\CodigoVersiones\\Version1\\Version1\\Program.cs",
+              "RelativeToolTip": "Version1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:22:11.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

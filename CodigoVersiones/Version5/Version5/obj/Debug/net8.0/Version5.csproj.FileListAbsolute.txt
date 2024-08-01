@@ -1,0 +1,14 @@
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\bin\Debug\net8.0\Version5.exe
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\bin\Debug\net8.0\Version5.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\bin\Debug\net8.0\Version5.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\bin\Debug\net8.0\Version5.dll
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\bin\Debug\net8.0\Version5.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.dll
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\refint\Version5.dll
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\Version5.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\CodigoVersiones\Version5\Version5\obj\Debug\net8.0\ref\Version5.dll
